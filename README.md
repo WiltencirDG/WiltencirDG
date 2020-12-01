@@ -9,8 +9,8 @@
 | --- | --- | --- | --- | --- | --- |
 | AppsScript :star2: | Javascript :star2: | Java Android  | SQL Server  | Apex | Bash |
 | NodeJS | VueJS | Ionic 4  | MySQL  | Aura Components | Powershell
-| Typescript | ReactJS | React Native  | Firebase  | LWC |
-| PHP | AngularJS | MongoDB  |
+| Typescript | ReactJS | React Native  | Firebase  | LWC | MQL5 |
+| PHP | AngularJS | MongoDB | MQL4 |
 | Java ||
 | C#  ||
 | Python  ||
