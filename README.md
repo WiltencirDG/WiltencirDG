@@ -15,6 +15,23 @@
 | C#  ||
 | Python  ||
 
+
+### Some projects that I have developed and I'm proud of...
+| Name | About |
+| --- | --- |
+| SchelasWABot | A WhatsApp bot developed to respond automatically your messages of customer service |
+| SchelasEditor | A robot that cuts your Youtube videos automatically and prepare to render with AfterEffects® |
+| SchelasTrader | A robot that trades stocks on Stock Exchanges or FOREX with MetaTrader4 and MetaTrader5 |
+| SchelasCEI_Importer | A service that handles integration with B3 [Brasil, Bolsa, Balcão] and returns your current stocks and positions |
+| SchelasSpotify | A helper service that generate and manage your Spotify Playlists based on various types of criteria |
+
+<!--
+- SchelasWABot: A WhatsApp bot developed to respond automatically your messages of customer service
+- SchelasEditor: A robot to edit your Youtube videos automatically and prepare to render with AfterEffects®
+- SchelasTrader: A robot that trades stocks on Stock Exchanges or FOREX with MetaTrader4 and MetaTrader5.
+- SchelasCEI_Importer: A service that handles integration with B3 [Brasil, Bolsa, Balcão] and returns your current stocks and positions.
+- SchelasSpotify: A helper service that can generate and manage your Spotify Playlists.
+-->
  <!--
 **WiltencirDG/WiltencirDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
