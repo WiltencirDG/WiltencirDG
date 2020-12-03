@@ -10,13 +10,13 @@
 | AppsScript :star2: | Javascript :star2: | Java Android  | SQL Server  | Apex | Bash |
 | NodeJS | VueJS | Ionic 4  | MySQL  | Aura Components | Powershell
 | Typescript | ReactJS | React Native  | Firebase  | LWC | MQL5 |
-| PHP | AngularJS | MongoDB | | | MQL4 |
+| PHP | AngularJS | | MongoDB | | MQL4 |
 | Java ||
 | C#  ||
 | Python  ||
 
 
-#### Some projects that I have developed and I'm proud of...
+#### Some projects that I've developed and I'm proud of...
 | Name | About |
 | --- | --- |
 | SchelasWABot | A WhatsApp bot developed to respond automatically your messages of customer service |
